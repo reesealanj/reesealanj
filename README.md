@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-I've been working in the industry for 2 years now and have focused largely on projects based in React. Currently I work for Branding Brand, a company that focuses on building user experiences using React and React Native.
+I've been working in the industry for 3 years now and have focused largely on projects based in React. Currently I work for Branding Brand, a company that focuses on building user experiences using React and React Native.
 
-*   🌍  I'm based in Houston, TX
+*   🌍  I'm based in Denton, TX
 *   ✉️  You can contact me at [reesealanj@gmail.com](mailto:reesealanj@gmail.com)
 *   🧠  I'm learning the t3 stack (particularly tRPC)
 *   🤝  I'm open to collaborating on Interesting projects
